@@ -5,6 +5,7 @@
 ## Sesión 2
 * Programación Orientado a Objetos (POO)
   > [Main.java](https://github.com/jhonrolyol/JAVA2_Danisable/blob/main/02_poo/src/poo/Main.java)
+
   > [persona.java](https://github.com/jhonrolyol/JAVA2_Danisable/blob/main/02_poo/src/poo/persona.java)
 ## Sesión 3
 
